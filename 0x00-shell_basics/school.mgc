@@ -1,3 +1,2 @@
-0 strng SCHOOL school data
-1: mime school
--C -s school.mgc 
+0 string SCHOOL school data
+1:mime school   
